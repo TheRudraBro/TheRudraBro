@@ -23,16 +23,34 @@
 
 ---
 
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheRudraBro&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRudraBro&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheRudraBro&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ### 📈 Contribution Graph  
 
-[![Rudra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?TheRudraBro=TheRudraBro&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rudra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheRudraBro&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 👀 Visitor Count  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?TheRudraBro=TheRudraBro&label=Visitors&color=0e75b6&style=flat" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=TheRudraBro&label=Visitors&color=0e75b6&style=flat" alt="visitor badge" />
 </p>
 
 ---
