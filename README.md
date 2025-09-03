@@ -1,3 +1,10 @@
+# 👋 Hi, I'm Rudra Mojumder  
+
+💻 I'm a computer science student and passionate about coding, learning, and building projects.  
+🚀 Currently exploring **Web Development** and **Java/Python/HTML/CSS/Tailwind/JavaScript/React/Firebase/Nodejs/Expressjs/MongoDB projects**.  
+
+---
+
 ### 🌐 Connect with me  
 
 <p align="left">
@@ -13,3 +20,20 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
+
+---
+
+### 📈 Contribution Graph  
+
+[![Rudra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?TheRudraBro=TheRudraBro&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 👀 Visitor Count  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?TheRudraBro=TheRudraBro&label=Visitors&color=0e75b6&style=flat" alt="visitor badge" />
+</p>
+
+---
+⭐️ From [RudraMajumder](https://github.com/TheRudraBro)
