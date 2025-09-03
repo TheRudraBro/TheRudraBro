@@ -5,7 +5,7 @@
 🚀 Currently exploring **Web Development** and building projects using :  
 **HTML, CSS, Tailwind, JavaScript, React, Firebase, Node.js, Express.js, MongoDB**  
 
- Goal : To become a skilled **Full-Stack Developer** and build real-world applications.
+🎯 Goal : To become a skilled **Full-Stack Developer** and build real world applications.
 ---
 
 ### 🌐 Connect with me  
