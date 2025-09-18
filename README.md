@@ -10,7 +10,7 @@
 
 ### 🌐 Connect with me  
 
-- 🌐 Portfolio: [yourwebsite.com](https://therudrabro.github.io/Portfolio/)
+- 🌐 Portfolio: [Rudra Mojumder](https://therudrabro.github.io/Portfolio/)
 - 📫 Reach me: rudramraj22@email.com
 
 
