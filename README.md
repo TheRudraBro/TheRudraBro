@@ -10,6 +10,10 @@
 
 ### 🌐 Connect with me  
 
+- 🌐 Portfolio: [yourwebsite.com](https://therudrabro.github.io/Portfolio/)
+- 📫 Reach me: rudramraj22@email.com
+
+
 <p align="left">
 <a href="https://www.facebook.com/TheRudraBro/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
@@ -34,21 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRudraBro&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
-</p>
-
----
-
-### 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheRudraBro&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 📈 Contribution Graph  
 
