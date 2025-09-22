@@ -43,7 +43,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rudra-mojumder-05a053306/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 
 
