@@ -1,17 +1,15 @@
-# 👋 Hi, I'm Rudra Mojumder  
+#  Hi, I'm Rudra Mojumder  
 
 💻 I'm a computer science student and passionate about coding, learning, and building projects.  
 
 🚀 Currently exploring **Web Development** and building projects using :  
 **HTML, CSS, Tailwind, JavaScript, React, Firebase, Node.js, Express.js, MongoDB**  
 
-🎯 Goal : To become a skilled **Full-Stack Developer** and build real world applications.
 ---
 
 ### 🌐 Connect with me  
 
 - 🌐 Portfolio: [Rudra Mojumder](https://therudrabro.github.io/Portfolio/)
-- 📫 Reach me: rudramraj22@email.com
 
 
 <p align="center">
@@ -29,20 +27,6 @@
 
 ---
 
-### 🛠️ Languages and Tools  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,nodejs,express,mongodb" />
-</p>
-
----
-
-
-### 📈 Contribution Graph  
-
-[![Rudra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheRudraBro&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 <br/>
   <h2 align="center">⚡ Current Statistics ⚡</h2>
