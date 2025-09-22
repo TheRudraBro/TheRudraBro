@@ -33,9 +33,15 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rudra-mojumder-05a053306/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:rudramojumder@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 
