@@ -22,12 +22,11 @@
 ## 📊 GitHub Stats  
 ![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRudraBro&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRudraBro&layout=compact&theme=tokyonight)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRudraBro&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheRudraBro&theme=tokyonight)  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheRudraBro&theme=tokyonight)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheRudraBro&label=Profile%20Views&color=0e75b6&style=flat)  
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=TheRudraBro&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 ---
