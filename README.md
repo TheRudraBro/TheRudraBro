@@ -7,45 +7,32 @@
 
 ---
 
-### 🌐 Connect with me  
-
-- 🌐 Portfolio: [Rudra Mojumder](https://therudrabro.github.io/Portfolio/)
-
-
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/rudra-mojumder-05a053306/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <!-- Gmail -->
-  <a href="mailto:rudramraj22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+## 🛠️ Tech Stack  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
+## 📊 GitHub Stats  
+![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRudraBro&show_icons=true&theme=radical)  
 
-<br/>
-  <h2 align="center">⚡ Current Statistics ⚡</h2>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRudraBro&layout=compact&theme=radical)  
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TheRudraBro&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRudraBro&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheRudraBro&theme=radical)  
 
-  
-<br/><br/>
+![Profile Views](https://komarev.com/ghpvc/?username=TheRudraBro&label=Profile%20Views&color=blue&style=flat)  
 
 ---
 
-### 👀 Visitor Count  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheRudraBro&label=Visitors&color=0e75b6&style=flat" alt="visitor badge" />
-</p>
-
----
+## 📫 Connect with Me  
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/yourhandle)  
+[![Gmail](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)  
 
