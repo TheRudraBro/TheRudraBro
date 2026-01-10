@@ -31,6 +31,5 @@
 ## 📫 Connect with Me  
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://rudra-mojumder-portfolio.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rudra-mojumder-05a053306/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://x.com/TheRudraBroo)  
 [![Gmail](https://img.shields.io/badge/Email-Contact-red)](mailto:rudramraj22@gmail.com)  
 
