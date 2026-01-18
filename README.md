@@ -1,9 +1,8 @@
 #  Hi, I'm Rudra Mojumder  
 
-💻 I'm a computer science student and passionate about coding, learning, and building projects.  
+💻 Computer Science Student | 🚀 Aspiring Full-Stack Web Developer
 
-🚀 Currently exploring **Web Development** and building projects using :  
-**HTML, CSS, Tailwind, JavaScript, React, Firebase, Node.js, Express.js, MongoDB**  
+I’m passionate about coding, learning new technologies, and building real-world projects. I enjoy turning ideas into interactive, user-friendly applications and continuously improving my skills through hands-on development. 
 
 
 ---
