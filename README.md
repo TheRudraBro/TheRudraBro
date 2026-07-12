@@ -16,7 +16,7 @@ I’m passionate about coding, learning new technologies, and building real-worl
 ---
 
 ## 📫 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://rudra-mojumder-portfolio.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://therudrabro.github.io/Personal_Portfolio/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rudra-mojumder-05a053306/)  
 [![Gmail](https://img.shields.io/badge/Email-Contact-red)](mailto:rudramraj22@gmail.com)  
 
