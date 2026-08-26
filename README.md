@@ -15,8 +15,19 @@ I’m passionate about coding, learning new technologies, and building real-worl
 
 ---
 
-## 📫 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://therudrabro.github.io/RudrasUniverse/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mrrudramojumder/) 
-[![Gmail](https://img.shields.io/badge/Email-Contact-red)](mailto:r17.gfx@gmail.com)  
+## 📫 Connect with Me
+
+<a href="https://therudrabro.github.io/RudrasUniverse/">
+  <img src="https://img.shields.io/badge/🌐-Portfolio-blue">
+</a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/mrrudramojumder/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue">
+</a>
+<br><br>
+
+<a href="mailto:r17.gfx@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red">
+</a>
 
